@@ -46,10 +46,4 @@ I design and build clean, user-focused web interfaces with strong attention to u
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: *(add your link)*
-- Portfolio: *(add your link)*
-
----
-
 ⭐ If you like clean UI and thoughtful frontend work, feel free to explore my repositories.
