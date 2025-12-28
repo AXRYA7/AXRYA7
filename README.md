@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Aarya 👋
 
-<!--
-**AXRYA7/AXRYA7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | UI/UX Designer | B.Tech CSE (AI)
 
-Here are some ideas to get you started:
+I design and build clean, user-focused web interfaces with strong attention to usability, performance, and visual clarity. I enjoy translating design thinking into scalable, production-ready frontends.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+- Build responsive, accessible web interfaces
+- Design UI/UX with a focus on clarity and user flow
+- Convert Figma designs into high-quality frontend code
+- Deploy and maintain projects on modern platforms
+
+---
+
+## 🛠 Tech Stack
+**Frontend**
+- HTML, CSS, JavaScript  
+- React, Vite  
+- Tailwind CSS  
+
+**Design**
+- Figma (UI Design, Prototyping, Design Systems)
+- UX Principles (Hick’s Law, Visual Hierarchy, Usability)
+
+**Tools & Platforms**
+- Git & GitHub  
+- Vercel  
+- VS Code  
+
+---
+
+## 📌 Featured Work
+- **Portfolio Website** – Designed in Figma and developed using React, deployed on Vercel  
+- **UI/UX Case Studies** – Focused on usability, decision fatigue, and clean interaction patterns  
+
+*(More projects coming soon)*
+
+---
+
+## 🌱 Currently Learning
+- Advanced React patterns
+- Motion design for the web
+- Improving UX through micro-interactions
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: *(add your link)*
+- Portfolio: *(add your link)*
+
+---
+
+⭐ If you like clean UI and thoughtful frontend work, feel free to explore my repositories.
