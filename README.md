@@ -1,49 +1,38 @@
-# Hi, I'm Aarya 👋
+# Hi, I'm Aarya Bharadwaj
 
-Frontend Developer | UI/UX Designer | B.Tech CSE (AI)
+**Frontend Developer | UI/UX Designer | B.Tech CSE (AI)**
 
-I design and build clean, user-focused web interfaces with strong attention to usability, performance, and visual clarity. I enjoy translating design thinking into scalable, production-ready frontends.
-
----
-
-## 🚀 What I Do
-- Build responsive, accessible web interfaces
-- Design UI/UX with a focus on clarity and user flow
-- Convert Figma designs into high-quality frontend code
-- Deploy and maintain projects on modern platforms
+I am a frontend developer and UI/UX designer specializing in intuitive, high-performance web applications. My focus lies in bridging the gap between aesthetics and engineering—ensuring that meticulous design translates seamlessly into robust, accessible code.
 
 ---
 
-## 🛠 Tech Stack
-**Frontend**
-- HTML, CSS, JavaScript  
-- React, Vite  
-- Tailwind CSS  
+## Core Expertise
 
-**Design**
-- Figma (UI Design, Prototyping, Design Systems)
-- UX Principles (Hick’s Law, Visual Hierarchy, Usability)
-
-**Tools & Platforms**
-- Git & GitHub  
-- Vercel  
-- VS Code  
+* **Frontend Architecture:** Building responsive, accessible interfaces using clean, maintainable logic.
+* **UX/UI Design:** Crafting user-centric workflows anchored in visual hierarchy and established usability principles.
+* **Design Translation:** Accurately executing complex Figma prototypes into production-ready web environments.
 
 ---
 
-## 📌 Featured Work
-- **Portfolio Website** – Designed in Figma and developed using React, deployed on Vercel  
-- **UI/UX Case Studies** – Focused on usability, decision fatigue, and clean interaction patterns  
+## Tech & Tools
 
-*(More projects coming soon)*
-
----
-
-## 🌱 Currently Learning
-- Advanced React patterns
-- Motion design for the web
-- Improving UX through micro-interactions
+* **Languages & Frameworks:** React, JavaScript, HTML/CSS, Tailwind CSS, Vite
+* **Design:** Figma, Prototyping, Design Systems, UX Psychology (e.g., Hick’s Law)
+* **Infrastructure:** Git/GitHub, Vercel, VS Code
 
 ---
 
-⭐ If you like clean UI and thoughtful frontend work, feel free to explore my repositories.
+## Selected Work
+
+* **Portfolio:** A custom-built React application demonstrating responsive design and seamless Vercel deployment.
+* **UX Case Studies:** In-depth analyses of interaction patterns, decision fatigue, and usability optimizations.
+
+*(More projects in development)*
+
+---
+
+## Current Focus
+
+Exploring advanced React architectures, web-based motion design, and refining user experience through deliberate micro-interactions.
+
+---
